@@ -1,0 +1,24 @@
+.black{
+    background-color: black;
+    color: white;
+}
+
+td{
+    width: 100px;
+    height: 100px;
+}
+div{
+    width: 98px;
+    height: 98px;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+td div{
+   visibility: hidden; 
+}
+td:hover div {
+    background: rgba(255, 0, 0, 0.5);
+    visibility: visible;
+}
