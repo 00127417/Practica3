@@ -1,0 +1,195 @@
+.tNormal{
+    border: none;
+    padding: 1em;
+    margin: 0.5em;
+    border-radius: 0.3em;
+    background-color: #F4F3F1;
+}
+
+.tPequeño{
+    border: none;
+    padding: 1em;
+    font-size: 10px;
+    margin: 0.5em;
+    border-radius: 0.3em;
+    background-color: #F4F3F1;
+}
+
+.tGrande{
+    border: none;
+    padding: 1em;
+    font-size: 20px;
+    margin: 0.5em;
+    border-radius: 0.3em;
+    background-color: #F4F3F1;
+}
+
+.cEsmeralda{
+    color: white;
+    border: none;
+    background-color: #00E78E;
+    padding: 0.7em;
+    margin: 0.5em;
+    border-radius: 0.3em;
+}
+
+.cCielo{
+    color: white;
+    border: none;
+    background-color: #51A0E6;
+    padding: 0.7em;
+    margin: 0.5em;
+    border-radius: 0.3em;
+}
+
+.cAmatista{
+    color: white;
+    border: none;
+    background-color: #BC59C4;
+    padding: 0.7em;
+    margin: 0.5em;
+    border-radius: 0.3em;
+}
+
+.cAsfalto{
+    color: white;
+    border: none;
+    background-color: #5B6A7F;
+    padding: 0.7em;
+    margin: 0.5em;
+    border-radius: 0.3em;
+}
+
+.cTopazio{
+    color: white;
+    border: none;
+    background-color: #F49839;
+    padding: 0.7em;
+    margin: 0.5em;
+    border-radius: 0.3em;
+}
+
+.cRubi{
+    color: white;
+    border: none;
+    background-color: #FB5F53;
+    padding: 0.7em;
+    margin: 0.5em;
+    border-radius: 0.3em;
+}
+
+.bSimple{
+    background-color: white;
+    border-color: black;
+    padding: 0.7em;
+    margin: 0.5em;
+    border-radius: 0.3em;
+    border-width: 1px;
+}
+
+
+.bEsmeralda{
+    background-color: white;
+    border-color: #00E78E;
+    color: #00E78E;
+    padding: 0.7em;
+    margin: 0.5em;
+    border-radius: 0.3em;
+    border-width: 1px;
+}
+
+
+.bCielo{
+    background-color: white;
+    border-color: #51A0E6;
+    color: #51A0E6;
+    padding: 0.7em;
+    margin: 0.5em;
+    border-radius: 0.3em;
+    border-width: 1px;
+}
+
+
+.bAmatista{
+    background-color: white;
+    border-color: #BC59C4;
+    color: #BC59C4;
+    padding: 0.7em;
+    margin: 0.5em;
+    border-radius: 0.3em;
+    border-width: 1px;
+}
+
+
+.bAsfalto{
+    background-color: white;
+    border-color: #5B6A7F;
+    color: #5B6A7F;
+    padding: 0.7em;
+    margin: 0.5em;
+    border-radius: 0.3em;
+    border-width: 1px;
+}
+
+
+.bTopazio{
+    background-color: white;
+    border-color: #F49839;
+    color: #F49839;
+    padding: 0.7em;
+    margin: 0.5em;
+    border-radius: 0.3em;
+    border-width: 1px;
+}
+
+
+.bRubi{
+    background-color: white;
+    border-color: #FB5F53;
+    color: #FB5F53;
+    padding: 0.7em;
+    margin: 0.5em;
+    border-radius: 0.3em;
+    border-width: 1px;
+}
+
+
+.cLargoAsf{
+    background-color: #5B6A7F;
+    color: white;
+    border-radius: 0.3em;
+    padding: 0.7em;
+    margin: 0.5em;
+    border: none;
+    font-size: 20px;
+}
+
+.cBordeCielo{
+    background-color: white;
+    border-color: #51A0E6;
+    border-width: 1px;
+    color: #51A0E6;
+    border-radius: 0.3em;
+    padding: 0.7em;
+    margin: 0.5em;
+}
+
+.cPequeEsme{
+    background-color: #00E78E;
+    color: white;
+    border-radius: 0.3em;
+    padding: 0.7em;
+    margin: 0.5em;
+    border: none;
+    font-size: 10px;
+}
+
+.cGranRubi{
+    background-color: white;
+    color: #FB5F53;
+    border-color: #FB5F53;
+    border-radius: 0.3em;
+    padding: 0.7em;
+    margin: 0.5em;
+    font-size: 20px;
+}
